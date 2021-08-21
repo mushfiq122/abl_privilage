@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Abl Privilage</string>
+    <string name="login">Login</string>
+    <string name="submit">Submit</string>
+    <string name="all_shop">All Shop</string>
+    <string name="account">Account</string>
+    <string name="milestone">Milestone</string>
+</resources>
